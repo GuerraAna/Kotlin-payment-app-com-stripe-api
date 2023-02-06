@@ -24,6 +24,11 @@
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
+
+            <meta-data
+                android:name="com.stripe.stripe_publishable_key"
+                android:value="pk_test_51MYIOEBEq2IuEjon8OZ7UI37vzSWn5E7D7MsljGc6846hzAzMBaQWrbFnH6ycSgYVKBPb2hjLaJ2vCMfV9s4Xmtg00pilJMDGO"
+                />
         </activity>
     </application>
 
